@@ -14,7 +14,7 @@ Like Dashlana pass generator, I should improve UX for easier usage and much bett
 </p>
 
 ## Idea
-- Get All Symbol Characters ( @#$½§ etc.) - true-false
+- Get All Symbol Characters - true-false
 - Get All Numbers ( 1265 etc. ) - true-false
 - Get Characters ( abcABC etc. ) - true-false
 - Get Length of the password ( 17 etc. ) - required
