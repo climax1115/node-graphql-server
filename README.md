@@ -8,7 +8,7 @@ In this project, I am trying to make a password generator in which a user can cr
 
 
 ## Goal
-Like Dashlana pass generator, I should improve UX for easier usage and much better UI for visual
+I should improve UX for easier usage and much better UI for visual
 <p align="center">
   <img src="assets/goal.png" width="600">
 </p>
@@ -29,7 +29,3 @@ Like Dashlana pass generator, I should improve UX for easier usage and much bett
 ## You can reach out 😊😊
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afozbek/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanozbek1995@gmail.com)](mailto:furkanozbek1995@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afozbek_)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afozbek)
