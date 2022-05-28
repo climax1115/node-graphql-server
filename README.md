@@ -1,4 +1,4 @@
-<h1 align="center"><strong>GraphQL Server Boilerplates in Node.js</strong></h1>
+<h1 align="center"><strong>GraphQL Server Boilerplates for Node.js</strong></h1>
 
 <br />
 
